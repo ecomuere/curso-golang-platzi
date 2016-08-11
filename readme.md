@@ -1,7 +1,17 @@
-# Curso de GoLang de Platzy
+# Curso de GoLang de Platzi
 
 ## Ejecutar un programa
 
   go run <nombre_programa>.go
 
-## Standard library
+## Tipos de datos
+
+- func
+- var
+- const
+- type
+  - cadenas
+  - enteros
+  - flotantes
+  - boolean
+  - números complejos
