@@ -4,6 +4,8 @@
 
   go run <nombre_programa>.go
 
+  go build <nombre_programa>.go
+
 ## Tipos de datos
 
 - func
@@ -15,3 +17,11 @@
   - flotantes
   - boolean
   - números complejos
+
+## Arrays
+
+tamaño especificado
+
+## Slices
+
+                            
